@@ -1,5 +1,7 @@
 <h1 align="center"> k-Clique Problem </h1>
 
+![IMG_7701CFC1DEF1-1](https://github.com/zeynepturkmen/k-Clique-Problem/assets/75041108/d1df5b13-e827-4843-bab3-9feb5885acf6)
+
 This repository presents an extensive report on the k-clique problem, accompanied by source code for both a brute force algorithm and a heuristic algorithm. The report includes comprehensive testing results for various graph sizes.
 
 The report begins by providing a detailed explanation of the k-clique problem, its theoretical foundations, and its practical applications in real-life scenarios. It offers a proof of its NP-completeness, showcasing its computational complexity.
