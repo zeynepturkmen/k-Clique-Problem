@@ -1,6 +1,6 @@
 <h1 align="center"> k-Clique Problem </h1>
 
-<img width="1291" alt="Screenshot 2023-07-04 at 14 52 32" src="https://github.com/zeynepturkmen/k-Clique-Problem/assets/75041108/21dab36c-978f-49d0-946d-9444dd875569">
+<img width="1291" alt="clique" src="https://github.com/zeynepturkmen/k-Clique-Problem/assets/75041108/f6865ebe-7c8d-4301-a381-987fcc2194d3">
 
 This repository presents an extensive report on the k-clique problem, accompanied by source code for both a brute force algorithm and a heuristic algorithm. The report includes comprehensive testing results for various graph sizes.
 
